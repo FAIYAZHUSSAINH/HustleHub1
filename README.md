@@ -1,3 +1,71 @@
+# HustleHub 🚀 | Hyper-Local Vendor Marketplace
+
+![Award](https://img.shields.io/badge/🏆_Winner-Best_Product_Team-gold)
+![Status](https://img.shields.io/badge/Status-MVP_Complete-success)
+![Stack](https://img.shields.io/badge/Tech-MERN_Stack-blue)
+
+> **"Bridging the digital divide for local street vendors through real-time bidding."**
+
+---
+
+### 🎥 Watch the 6-Min Product Demo
+[![Watch the Video](https://img.youtube.com/vi/YOUR_VIDEO_ID_HERE/maxresdefault.jpg)](https://drive.google.com/file/d/1yz-vlxglUrGBNzArt_3d95kmMjmE-x0R/view?usp=sharing)
+*(Click above to see the Real-time Bidding Engine & Dual-Dashboard in action)*
+
+---
+
+## 📖 The "50% Off" Insight (Why I Built This)
+**The Problem:**
+The idea for HustleHub was born from a real-world discovery. My teammate purchased a bicycle at **Parry's Corner (Chennai)** for **50% less** than the price listed on major e-commerce sites. 
+
+We realized a critical market gap:
+* **Local vendors** offer better prices but are "digitally invisible."
+* **Buyers** overpay online for convenience.
+* **Gig Workers** struggle to find trustworthy short-term work.
+
+**The Solution:**
+A dual-sided marketplace that gives "agency" back to the unorganized sector.
+1.  **For Vendors:** A platform to bid on customer requests in real-time.
+2.  **For Buyers:** A way to get competitive local offers instantly.
+3.  **For Gig Workers:** A verified space to find short-term employment.
+
+---
+
+## 🏆 Validation & Awards
+* **Winner: "Best Product Team Award"** at *Hacktrax* by AlexaDevelopers.
+* **Prize:** ₹50,000 worth of Product Management courses.
+* **Judges' Feedback:** Validated that the "Real-time Bidding" feature was a unique differentiator for this demographic.
+
+---
+
+## 🚀 Key Features (The MVP)
+* **Start-Up Ready:** Built not just as a project, but as a scalable MVP.
+* **Real-Time Bidding:** WebSockets enabled live price updates for vendors.
+* **Dual-Role Dashboard:** Seamlessly switch between "Buyer" and "Seller" modes.
+* **Identity Verification:** Integrated document upload flow for trust.
+
+---
+
+## 🛠️ Tech Stack Overview
+* **Frontend:** React.js, TypeScript, Tailwind CSS
+* **Backend:** Node.js, Express.js
+* **Database:** PostgreSQL (with Drizzle ORM)
+* **Real-Time:** WebSocket (ws)
+* **Auth:** Passport.js
+
+---
+
+## 💻 For Developers (Technical Documentation)
+Are you a developer looking for the **Installation Guide**, **API Endpoints**, or **Folder Structure**?
+👉 [**Click here to read the detailed TECHNICAL_DOCS.md**](./TECHNICAL_DOCS.md)
+
+---
+### 👥 Team (SRMIST)
+* **Faiyaz Hussain** (Product Lead)
+* **Gayathri** | **Manoj** | **Rupica**
+
+
+
 # HUSTLEHUB
 
 HustleHub is a dual-purpose platform that connects local vendors with customers and helps students/professionals find short-term gig jobs. It ensures fair pay with its AI-powered minimum wage feature. It offers location-based vendor discovery, a dynamic bidding system for better deals, and blockchain-backed verification for trust and transparency.
