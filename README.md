@@ -9,7 +9,7 @@
 ---
 
 ### 🎥 Watch the 6-Min Product Demo
-[![Watch the Video](https://img.youtube.com/vi/YOUR_VIDEO_ID_HERE/maxresdefault.jpg)](https://drive.google.com/file/d/1yz-vlxglUrGBNzArt_3d95kmMjmE-x0R/view?usp=sharing)
+[![Watch the Video](https://drive.google.com/file/d/1yz-vlxglUrGBNzArt_3d95kmMjmE-x0R/view?usp=sharing)
 *(Click above to see the Real-time Bidding Engine & Dual-Dashboard in action)*
 
 ---
@@ -57,7 +57,7 @@ A dual-sided marketplace that gives "agency" back to the unorganized sector.
 
 ## 💻 For Developers (Technical Documentation)
 Are you a developer looking for the **Installation Guide**, **API Endpoints**, or **Folder Structure**?
-👉 [**Click here to read the detailed TECHNICAL_DOCS.md**](./TECHNICAL_DOCS.md)
+👉 [**CONTINUE TO READ BELOW YOU CAN FIND THE TECHNICAL DETAILS OF THE PROJECT **]
 
 ---
 ### 👥 Team (SRMIST)
