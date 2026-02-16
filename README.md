@@ -152,15 +152,21 @@ npm start
 
 ## 📝 License
 
-This project is licensed under the MIT License.
+STUDENTS FROM SRMIST 
 
 ## 👥 Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
+CONTRIBUTORS:
+FAIYAZ
+GAYATHRI
+MANOJ
+RUPICA
 
 ## 📧 Contact
 
 For questions or support, please open an issue on GitHub.
+
 
 ---
 
