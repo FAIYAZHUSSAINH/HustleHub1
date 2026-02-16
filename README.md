@@ -10,7 +10,7 @@
 
 ### 🎥 Watch the 6-Min Product Demo
 [![Watch the Video](https://img.youtube.com/vi/YOUR_VIDEO_ID_HERE/maxresdefault.jpg)](https://drive.google.com/file/d/1yz-vlxglUrGBNzArt_3d95kmMjmE-x0R/view?usp=sharing)
-*(Click above to see the Real-time Bidding Engine & Dual-Dashboard in action)*
+*(Click The Drive link to see the Real-time Bidding Engine & Dual-Dashboard in action)*
 
 ---
 
