@@ -56,10 +56,10 @@ app.use((req, res, next) => {
     serveStatic(app);
   }
 
-  // this serves both the API and the client.
-  // It is the only port that is not firewalled.
-  const port = 5000;
-  server.listen(port, () => {
+  // Serves both the API and the client on a single port.
+  // Hosting platforms (Render, Railway, etc.) inject PORT; fall back to 5000 locally.
+  const port = Number(process.env.PORT) || 5000;
+  server.listen(port, "0.0.0.0", () => {
     log(`serving on port ${port}`);
   });
 })();
